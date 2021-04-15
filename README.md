@@ -1,2 +1,3 @@
 # sinUberYSinTaxis
-2021_Grupo3_Mixto
+
+La idea es aprender a usar branches y un repository
